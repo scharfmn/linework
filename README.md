@@ -1,3 +1,4 @@
 # linework
 
-child's repo - 'linework' is a kind of typing-design
+'linework' is a kind of typing-design
+age 3-5
