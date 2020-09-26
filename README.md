@@ -1,5 +1,7 @@
 # linework
 
-'linework' is a kind of typing-design
+'linework' is a kind of typing-design by a 3-5 year old
 
-age 3-5
+their name for what they do; their repository for saving it
+
+
